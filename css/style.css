@@ -1,0 +1,11 @@
+/* .altura {
+    @media (min-width: 768px) {
+        height: 100vh;
+    };
+} */
+
+@media (min-width: 768px) {
+    .altura {
+        height: 100vh
+    }
+}
