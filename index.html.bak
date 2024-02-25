@@ -13,7 +13,7 @@
 <body>
     <div class="container text-center d-flex flex-column justify-content-center altura">
         <header>
-            <h1 class="display-4">Listado de Precios!!!</h1>
+            <h1 class="display-4">Listado de Precios</h1>
             <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, ea? Pariatur voluptatibus
                 recusandae quas
                 modi
